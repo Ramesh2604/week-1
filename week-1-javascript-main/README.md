@@ -4,7 +4,7 @@ Expected Output at Web Page
 ----------------------------
 My name is E Rameshkumar
 My favorite number is 26
-Total is 185
+
 -----------------------------
 Upload Project Folder as follows
 -----------------------------------
